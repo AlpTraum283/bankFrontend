@@ -1,0 +1,12 @@
+.operation {
+    background: lightgray;
+}
+.operation:hover{
+    background-color: lightskyblue;
+}
+.account {
+    background: lightgray;
+}
+.account:hover{
+    background-color: lightskyblue;
+}

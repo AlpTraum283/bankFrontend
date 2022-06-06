@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\Алексей\\Desktop\\vaadin",
+  "node.version": "v16.14.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "C:\\Users\\Алексей\\Desktop\\vaadin\\target\\frontend",
+  "frontendFolder": "C:\\Users\\Алексей\\Desktop\\vaadin\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\Алексей\\Desktop\\vaadin\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\Алексей\\Desktop\\vaadin\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\Алексей\\Desktop\\vaadin\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\Алексей\\Desktop\\vaadin\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\Алексей\\Desktop\\vaadin\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
